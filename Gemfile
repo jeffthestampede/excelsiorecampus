@@ -9,6 +9,7 @@ gem 'font-awesome-rails'
 
 gem 'solidus'
 gem 'solidus_auth_devise'
+gem 'solidus_gateway'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
